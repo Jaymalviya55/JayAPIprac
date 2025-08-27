@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Loginpagegit.Controllers.LoginController",
+    "Method": "Create",
+    "RelativePath": "api/Login/LoginAPIDb",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Loginpagegit.Dto.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
